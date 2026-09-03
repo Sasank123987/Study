@@ -4,3 +4,5 @@ reverse LLG(only right hand side) to get RLG but language will also get reversed
 derivation(LMD and RMD) and parse trees (number of LMD == RMD == Parse tree)
 ambiguity in CFGs(more than 1 parse tree for a string in a grammar)
 Simplification of CFG(removal of null transition,removal of unit productions,removal of useless states)
+------------------------------------------------------------------------------------------------------------------
+
