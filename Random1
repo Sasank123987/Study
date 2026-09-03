@@ -1,4 +1,4 @@
 write difference between language(strings starting with) grammar and automata
 RLG to nfa and nfa to RLG (only for simplification)
 reverse LLG(only right hand side) to get RLG but language will also get reversed
-derivation and parse trees
+derivation(LMD and RMD) and parse trees
