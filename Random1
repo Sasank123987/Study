@@ -7,3 +7,4 @@ Simplification of CFG(removal of null transition,removal of unit productions,rem
 ------------------------------------------------------------------------------------------------------------------
 
 PDA and examples
+determinism and non-determinism
