@@ -6,3 +6,4 @@ ambiguity in CFGs(more than 1 parse tree for a string in a grammar)
 Simplification of CFG(removal of null transition,removal of unit productions,removal of useless states)
 ------------------------------------------------------------------------------------------------------------------
 
+PDA and examples
